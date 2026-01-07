@@ -3,14 +3,13 @@
 > *"To Start Press Any Key. Where's the Any Key?"*
 > — Homer J. Simpson, S7E7 "King-Size Homer"
 
-```
-       .---.
-      ( o o )    *dip* *dip* *dip*
-       \ < /     "Y" "Y" "Y" "Y"
-        | |
-       /   \
-      |_____|
-```
+<p align="center">
+  <img src="https://www.capsnlock.com/cdn/shop/articles/TheSimpsonskKeyboardPecker_c270039b-f8c3-44e5-8afe-3ff8fcbe392e.gif?v=1673306378&width=500" alt="Homer's Drinking Bird" width="400">
+</p>
+
+<p align="center">
+  <a href="https://www.capsnlock.com/blogs/news/simpsons-keyboard-bird">The iconic scene that inspired this script</a>
+</p>
 
 Auto-accepts [Claude Code](https://github.com/anthropics/claude-code) permission prompts so you can go get donuts.
 
